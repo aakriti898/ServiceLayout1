@@ -1,0 +1,46 @@
+body {
+    
+    font-family: 'Montserrat', sans-serif;    
+  }
+
+
+  /*..................FORM...................*/
+  .form1{
+    
+    background-color: rgb(233, 227, 227);
+    padding: 10px;
+    border: none;
+    width: 100%;
+    border-radius: 4px;
+    
+  
+    
+    }
+
+    .form{
+        background-color: whitesmoke;
+        margin-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 30px;
+        padding-right: 30px;
+        
+    }
+
+    #form{
+        margin-top: 100px;
+    }
+
+    .button{
+        background-color:rgb(253, 134, 54) ;
+        color: white;
+        border-radius: 10px;
+        outline: none;
+        border: none;
+        padding: 8px;
+        width: 70px;
+    }
+  
+    .button:hover{
+        background-color: green;
+        color: white;
+    }
